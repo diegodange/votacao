@@ -1,0 +1,73 @@
+@charset "utf-8";
+/* CSS Document */
+.tabela{
+	background-color:#BEBEBE;
+	border-radius:8px;
+}
+body {
+	background-repeat: no-repeat;
+	background-size:100%;
+   	 background-image: url("imagens/mutirao.png");
+
+}
+.table{
+border-radius="8px";
+}
+#container{
+
+	width:800px;
+	height:500px;
+	margin-left:20px auto;
+}
+.direito{
+	width:450px;
+	float:left;
+	 position: -20px;
+	background-color:#BEBEBE;
+	border-radius:20px;
+	padding: 4px;
+}
+.esquerdo{
+	width:450px;
+	float:left;
+	background-color:#E8E8E8;
+	border-radius:20px;
+	padding: 4px;
+}
+#imagemmutirao{
+	width:9000px;
+	height:5000px;
+	margin:100px auto;
+}
+
+.direitooferta{
+	width:950px;
+	float:right;
+	background-color:#E8E8E8;
+	margin-left:1150px;
+	padding: 4px;	
+	
+}
+
+#formularios{
+	width:300px;
+}
+.faixa	{
+	width:950px;
+	float:right;
+	background-color:#E8E8E8;
+	margin-left:1150px;
+	padding: 4px;	
+}
+#containerer{
+
+	width:800px;
+	height:500px;
+	margin-left:center;
+}
+.canvas_demo {
+    padding: 20px;
+    border: 1px dotted #C0C0C0;
+    margin: 20px 5px;
+    width: auto;
+}
