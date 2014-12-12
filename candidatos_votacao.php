@@ -402,7 +402,7 @@ body {
 
 	<div class="well row">
 				<legend><h2>Candidatos Votação</legend></h2>
-    			<div class="col-xs-6 col-sm-6 col-md-3 col-lg-3">
+    			<div class="wellcol-xs-6 col-sm-6 col-md-3 col-lg-3">
 				
 					<!-- PRICE ITEM -->
 					

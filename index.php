@@ -191,12 +191,16 @@ $.material.init();
 	</div>
 </nav>
 
-<div class="row">
-	<div class="well col-lg-12">
-        <div class="col-lg-3 col-md-6">
-                <div class="container">
-	
-   
+
+
+
+      
+    <div class=" center-block container">
+    	
+    	<div class="well row">
+    		
+	<div class="col-lg-12">
+   <legend><h2>Votação</legend></h2>
     	<div class="well col-lg-3">
     				<div class="cuadro_intro_hover " style="background-color:#cccccc;">
 						
@@ -295,7 +299,7 @@ $.material.init();
 							</div>
 						</div>
 					</div>
-				<!--teste-->
+				
 	    </div>
 	   <!-- <div class="well col-lg-3" style="margin-left:1013px; margin-top:-255px;">-->
 	   		<div class="well col-lg-3">
