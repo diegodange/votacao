@@ -191,10 +191,10 @@ $.material.init();
 	</div>
 </nav>
 
-<div class="row">
-	<div class="well col-lg-12">
-        <div class="col-lg-3 col-md-6">
-                <div class="container">
+<div class="row col-md-12 center-block">
+	
+      
+                <div class="well container center">
 	
    
     	<div class="well col-lg-3">
@@ -304,7 +304,7 @@ $.material.init();
 						<div class="caption">
 							<div class="blur"></div>
 							<div class="caption-text">
-								<h3 style="border-top:2px solid white; border-bottom:2px solid white; padding:10px;">Votação Samae</h3>
+								<h2 style="border-top:2px solid white; border-bottom:2px solid white; padding:10px;">Votação Samae</h3>
 								<p>Fim da Votação em <b>25/12/2014.</b></p>
 								<a href="candidatos_votacao.php" class="btn btn-primary btn-raised">Entrar</a>
 							</div>
@@ -312,17 +312,8 @@ $.material.init();
 					</div>
 				
 	    </div>
-
-
-
-
-
-
-
-
-
     			</div>
-   		 </div>
+   		
     </div>        
 </div>
 	
