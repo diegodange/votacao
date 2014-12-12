@@ -192,9 +192,9 @@ $.material.init();
 </nav>
 
 <div class="row">
-	<div class="well col-lg-12 cente" >
+	<div class="well col-lg-12">
         <div class="col-lg-3 col-md-6">
-                <div class="container" align="center">
+                <div class="container">
 	
    
     	<div class="well col-lg-3">
