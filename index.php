@@ -195,7 +195,7 @@ $.material.init();
 
 
       
-    <div class=" center-block container">
+    <div class="center-block container">
     	
     	<div class="well row">
     		
@@ -315,7 +315,7 @@ $.material.init();
 						</div>
 					</div>
 				
-	    </div>
+	    	</div>
 
 
 
@@ -325,9 +325,9 @@ $.material.init();
 
 
 
-    			</div>
-   		 </div>
-    </div>        
+			</div>
+   		</div>	 
+    </div>     
 </div>
 	
 
