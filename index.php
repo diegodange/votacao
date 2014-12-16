@@ -191,11 +191,13 @@ $.material.init();
 	</div>
 </nav>
 
-
+<div>
+<p></p>
+</div>
 
 
       
-    <div class="center-block container">
+    <div class="center-block container"><br/></br>
     	
     	<div class="well row">
     		
@@ -210,7 +212,7 @@ $.material.init();
 							<div class="blur"></div>
 							<div class="caption-text">
 								<h3 style="border-top:2px solid white; border-bottom:2px solid white; padding:10px;">Votação Samae</h3>
-								<p>Fim da Votação em <b>25/12/2014.</b></p>
+								Fim da Votação em 25/12/2014.<div></div>
 										<a href="candidatos_votacao.php" class="btn btn-primary btn-raised">Entrar</a>
 
 							</div>
@@ -225,7 +227,7 @@ $.material.init();
 							<div class="blur"></div>
 							<div class="caption-text">
 								<h3 style="border-top:2px solid white; border-bottom:2px solid white; padding:10px;">Votação Prefeitura</h3>
-								<p>Fim da Votação em <b>25/12/2014.</b></p>
+								Fim da Votação em 25/12/2014.<div></div>
 								<a href="candidatos_votacao.php" class="btn btn-primary btn-raised">Entrar</a>
 							</div>
 						</div>
@@ -239,7 +241,7 @@ $.material.init();
 							<div class="blur"></div>
 							<div class="caption-text">
 								<h3 style="border-top:2px solid white; border-bottom:2px solid white; padding:10px;">Votação Samae</h3>
-								<p>Fim da Votação em <b>25/12/2014.</b></p>
+								Fim da Votação em 25/12/2014.<div></div>
 								<a href="candidatos_votacao.php" class="btn btn-primary btn-raised">Entrar</a>
 							</div>
 						</div>
@@ -253,7 +255,7 @@ $.material.init();
 							<div class="blur"></div>
 							<div class="caption-text">
 								<h3 style="border-top:2px solid white; border-bottom:2px solid white; padding:10px;">Votação Samae</h3>
-								<p>Fim da Votação em <b>25/12/2014.</b></p>
+								Fim da Votação em 25/12/2014.<div></div>
 								<a href="candidatos_votacao.php" class="btn btn-primary btn-raised">Entrar</a>
 							</div>
 						</div>
@@ -267,7 +269,7 @@ $.material.init();
 							<div class="blur"></div>
 							<div class="caption-text">
 								<h3 style="border-top:2px solid white; border-bottom:2px solid white; padding:10px;">Votação Samae</h3>
-								<p>Fim da Votação em <b>25/12/2014.</b></p>
+								Fim da Votação em 25/12/2014.<div></div>
 								<a href="candidatos_votacao.php" class="btn btn-primary btn-raised">Entrar</a>
 							</div>
 						</div>
@@ -281,7 +283,7 @@ $.material.init();
 							<div class="blur"></div>
 							<div class="caption-text">
 								<h3 style="border-top:2px solid white; border-bottom:2px solid white; padding:10px;">Votação Samae</h3>
-								<p>Fim da Votação em <b>25/12/2014.</b></p>
+								Fim da Votação em 25/12/2014.<div></div>
 								<a href="candidatos_votacao.php" class="btn btn-primary btn-raised">Entrar</a>
 							</div>
 						</div>
@@ -294,7 +296,7 @@ $.material.init();
 							<div class="blur"></div>
 							<div class="caption-text">
 								<h3 style="border-top:2px solid white; border-bottom:2px solid white; padding:10px;">Votação Samae</h3>
-								<p>Fim da Votação em <b>25/12/2014.</b></p>
+								Fim da Votação em 25/12/2014.<div></div>
 								<a href="candidatos_votacao.php" class="btn btn-primary btn-raised">Entrar</a>
 							</div>
 						</div>
@@ -309,7 +311,7 @@ $.material.init();
 							<div class="blur"></div>
 							<div class="caption-text">
 								<h3 style="border-top:2px solid white; border-bottom:2px solid white; padding:10px;">Votação Samae</h3>
-								<p>Fim da Votação em <b>25/12/2014.</b></p>
+								Fim da Votação em 25/12/2014.<div></div>
 								<a href="candidatos_votacao.php" class="btn btn-primary btn-raised">Entrar</a>
 							</div>
 						</div>
